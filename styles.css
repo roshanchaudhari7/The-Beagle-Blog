@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    padding: 0px 300px;
+    margin-top: 30px;
+}
+
+.page {
+    border: 1px solid #2911de;
+    padding: 20px;
+}
+
+.section-one {
+    border: 1px solid #1b1111;
+    padding: 20px;
+}
+
+.section-one > p {
+    font-size: 1.3em;
+}
+
+.section-three {
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+.section-three > ol > li {
+    line-height: 1.3;
+}
+
+.atext > a {
+    color: black;
+}
